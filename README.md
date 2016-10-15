@@ -1,2 +1,2 @@
 # test-repo
-It's for testing and learning
+This is for testing and learning
